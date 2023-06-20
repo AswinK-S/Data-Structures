@@ -6,4 +6,4 @@ function fact(n){
     return f;
 }
 
-console.log(fact(5));
+console.log(fact(6));
