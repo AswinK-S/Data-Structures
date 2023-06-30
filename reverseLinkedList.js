@@ -97,6 +97,6 @@ list.prepend(10)
 list.prepend(7)
 list.prepend(6)
 list.display()
-// list.reverse()
-// list.display()
+list.reverse()
+list.display()
 
